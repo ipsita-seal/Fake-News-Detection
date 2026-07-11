@@ -13,7 +13,3 @@ Natural Language Processing (NLP) is used to process the text and train a classi
 - Pandas
 - Scikit-learn
 - Natural Language Processing (NLP)
-## Future Improvements
-- Deploy the model using Streamlit
-- Improve model accuracy
-- Add larger dataset
